@@ -72,11 +72,11 @@ dependencies:
   vimeo_embed_player: ^1.0.2
   wootricsdk_flutter: 
     git:
-      url: git@github.com:estrategiahq/WootricSDK_flutter.git
+      url: https://github.com/estrategiahq/WootricSDK_flutter
       ref: 0.0.10
   flutter_math_fork:
     git:
-      url: git@github.com:estrategiahq/flutter_math.git
+      url: https://github.com/estrategiahq/flutter_math.git
       ref: 0.7.3+1
   youtube_player_iframe: ^5.2.1
 

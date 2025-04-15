@@ -508,7 +508,7 @@ packages:
       path: "."
       ref: "0.7.3+1"
       resolved-ref: "9a4ff59d159193a67879288f6bc3348aab991d4d"
-      url: "git@github.com:estrategiahq/flutter_math.git"
+      url: "https://github.com/estrategiahq/flutter_math.git"
     source: git
     version: "0.7.3"
   flutter_secure_storage:
@@ -1476,7 +1476,7 @@ packages:
       path: "."
       ref: "0.0.10"
       resolved-ref: "14064344bad634a8d8ba3a45b0f95ef055814a54"
-      url: "git@github.com:estrategiahq/WootricSDK_flutter.git"
+      url: "https://github.com/estrategiahq/WootricSDK_flutter"
     source: git
     version: "0.0.10"
   xdg_directories:
