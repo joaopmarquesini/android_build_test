@@ -70,7 +70,14 @@ dependencies:
   permission_handler: ^11.4.0
   app_settings: 5.2.0
   vimeo_embed_player: ^1.0.2
-  # wootricsdk_flutter: 
+  wootricsdk_flutter: 
+    git:
+      url: git@github.com:estrategiahq/WootricSDK_flutter.git
+      ref: 0.0.10
+  flutter_math_fork:
+    git:
+      url: git@github.com:estrategiahq/flutter_math.git
+      ref: 0.7.3+1
   youtube_player_iframe: ^5.2.1
 
   # The following adds the Cupertino Icons font to your application.
